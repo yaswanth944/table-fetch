@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: white; /* Set the text color to white for the entire body */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse; /* Merge cell borders */
+  height: 10%;
+}
+
+table {
+  border: 1px solid white; /* Add white borders to table, headers, and cells */
+  height: 10%;
+}
+
+th {
+  background-color: black;
+  color: white; /* Set the header background to black and text color to white */
+  font-weight: bold; /* Make header text bold */
+  text-align: left; /* Align header text to the left */
+  padding: 8px; /* Add padding to the header cells */
+  border-bottom: 1px solid white; /* Add a one-line separator at the bottom of header cells */
+}
+
+td {
+  padding: 8px; /* Add padding to the data cells */
+  line-height: 1;
+}
+img {
+  height: 10%;
+  width: 30%;
+}
